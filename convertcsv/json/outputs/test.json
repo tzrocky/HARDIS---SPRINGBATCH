@@ -1,0 +1,96 @@
+{"documentXML": {"documentXML": [
+  {
+    "references": {"reference": [
+      {
+        "color": "R",
+        "size": 27,
+        "price": 45.12,
+        "numReference": 1460100040
+      },
+      {
+        "color": "G",
+        "size": 14,
+        "price": -12.014055,
+        "numReference": 1460900848
+      }
+    ]},
+    "errors": ""
+  },
+  {
+    "references": {"reference": [
+      {
+        "color": "R",
+        "size": 27,
+        "price": 45.12,
+        "numReference": 1460100040
+      },
+      {
+        "color": "G",
+        "size": 14,
+        "price": -12.014055,
+        "numReference": 1460900848
+      }
+    ]},
+    "errors": ""
+  },
+  {
+    "references": "",
+    "errors": {"error": [
+      {
+        "line": 3,
+        "ligneErronee": "1460959878;F;19.0;145",
+        "message": "Incorrect value for Color"
+      },
+      {
+        "line": 4,
+        "ligneErronee": "1460959878;K;19.0;145",
+        "message": "Incorrect value for Color"
+      },
+      {
+        "line": 5,
+        "ligneErronee": "1460959878;J;19.0;145",
+        "message": "Incorrect value for Color"
+      }
+    ]}
+  },
+  {
+    "references": "",
+    "errors": {"error": [
+      {
+        "line": 3,
+        "ligneErronee": "1460959878;F;19.0;145",
+        "message": "Incorrect value for Color"
+      },
+      {
+        "line": 4,
+        "ligneErronee": "1460959878;K;19.0;145",
+        "message": "Incorrect value for Color"
+      },
+      {
+        "line": 5,
+        "ligneErronee": "1460959878;J;19.0;145",
+        "message": "Incorrect value for Color"
+      }
+    ]}
+  },
+  {
+    "references": "",
+    "errors": {"error": [
+      {
+        "line": 3,
+        "ligneErronee": "1460959878;F;19.0;145",
+        "message": "Incorrect value for Color"
+      },
+      {
+        "line": 4,
+        "ligneErronee": "1460959878;K;19.0;145",
+        "message": "Incorrect value for Color"
+      },
+      {
+        "line": 5,
+        "ligneErronee": "1460959878;J;19.0;145",
+        "message": "Incorrect value for Color"
+      }
+    ]}
+  }
+]}}
