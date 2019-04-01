@@ -8,5 +8,5 @@ package fr.hardis.utils;
  *
  */
 public enum Color {
-	R, G, B
+	R, G, B, Y
 }
